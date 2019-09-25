@@ -7,8 +7,10 @@ class Person
     @eye_color = eye_color
     @hair_type = hair_type
     @hair_color = hair_color
-  end 
-  kate_attributes = {name: "Kate", eye_color: "hazel", hair_type: "thick and curly" }
-
-  kate = Person.new(kate_attributes)
+  end
 end
+
+
+kate_attributes = {name: "Kate", eye_color: "hazel", hair_type: "thick and curly" }
+
+kate = Person.new(kate_attributes)

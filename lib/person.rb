@@ -9,5 +9,3 @@ class Person
     @hair_color = hair_color
   end
 end
-
-

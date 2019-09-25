@@ -1,6 +1,6 @@
 class Person
 
-  kate_attributes = {}
+  avi_attributes = {}
 
-  kate = Person.new(kate_attributes)
+  avi = Person.new(avi_attributes)
 end
